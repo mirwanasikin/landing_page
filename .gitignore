@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+*.log
+
+# Node (kalau nanti kepakai)
+node_modules/
+
+# Build output (future proof)
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Cache
+.cache/
+
+# Docker
+Dockerfile
